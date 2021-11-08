@@ -1,4 +1,2 @@
 # github-example
-- one 
-- two
-- three
+- Sample of html
